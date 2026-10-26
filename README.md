@@ -1,5 +1,4 @@
 # messy-python-code
-# messy-pythoncode
 # Messy Python Code — Student Marks Analysis
 
 ## Overview
